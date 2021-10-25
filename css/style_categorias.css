@@ -1,0 +1,32 @@
+/* Padding below the footer and lighter body text */
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  
+  /* Navbar custom css*/
+  .fa-graduation-cap{
+    padding-left:1rem;
+    padding-right:2rem;
+  }
+  .navbar-nav > li{
+    margin-left:2rem;
+    margin-right:2rem;
+    font-size: 1.2rem ;
+  }
+  
+/* Resize main image */
+.img {
+    max-height:500px;
+    width: 100%;
+    height: auto;
+    padding-bottom: 3rem;
+  }
+
+/* Acccordion custom css*/
+.container{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+
+}
